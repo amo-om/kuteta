@@ -11,6 +11,13 @@ socialDescription: Kuteta is a constructed language (conlang), inspired by the s
 	- 47 links
 	- 1,560 words
 	- 13,218 characters
+
+
+# Quick Links
+- [[011.phonemes]]
+- [[021.sentence_structure]]
+- [[041.script]]
+
 # To-Do
 - [ ] Develop more Grammar
 	- [ ] Plurality
