@@ -2,6 +2,7 @@
 tags:
   - developing
 date: 2025-05-26
+socialDescription: Kuteta has a flexible and stylised writing system based on circles and lines, inspired by Thai, Tibetan, Malayalam, & Hangul scripts It supports both block-style (syllabic fusion) and linear (alphabetic) forms, enabling different forms of expression and visual appeal.
 ---
 12:43
 

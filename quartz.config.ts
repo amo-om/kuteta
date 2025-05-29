@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Kuteta",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "Test",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

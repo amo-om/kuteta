@@ -1,5 +1,5 @@
 ---
-socialDescription: Kuteta is a constructed language (conlang). It's mainly inspired by the structure of Asian languages (Japanese, Chinese, Thai, Malayalam, & Tibetan). It also uses a custom-built alphabet and is designed be easily expanded upon.
+socialDescription: Kuteta is a constructed language (conlang), inspired by the structure of Asian languages (notably Japanese, Malayalam, & Tibetan). It also uses a custom-built alphabet and is designed be easily expanded upon.
 ---
 2025-05-25  
 # Overview
