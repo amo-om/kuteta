@@ -7,7 +7,7 @@ socialDescription: Kuteta is a constructed language (conlang). It's mainly inspi
 - Purpose: I got bored when summer break started so I picked this up as a project, that I hopefully will not give up.
 - Stats:[^2]
 	- 23 notes
-	- 5 attachments
+	- 5 attachment
 	- 47 links
 	- 1,560 words
 	- 13,218 characters
