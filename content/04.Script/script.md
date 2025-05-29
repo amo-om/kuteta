@@ -36,18 +36,18 @@ Kuteta has a flexible and stylised writing system based on **circles and lines, 
 | /w/     |            |
 ## Vowels
 
-| Phoneme | Glyph |
-| ------- | ----- |
-| /i/     |       |
-| /e/     |       |
-| /a/     |       |
-| /o/     |       |
-| /u/     |       |
-| /ɯ/     |       |
-| /ɨ/     |       |
-| /ə/     |       |
-| /ɜ/     |       |
-| /y/     |       |
+| Phoneme | Glyph      |
+| ------- | ---------- |
+| /i/     |            |
+| /e/     | ![[e.svg]] |
+| /a/     | ![[a.svg]] |
+| /o/     |            |
+| /u/     | ![[u.svg]] |
+| /ɯ/     |            |
+| /ɨ/     |            |
+| /ə/     |            |
+| /ɜ/     |            |
+| /y/     |            |
 
 # Script Forms
 ## **Block-Style Script**
