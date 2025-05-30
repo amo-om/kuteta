@@ -6,11 +6,11 @@ socialDescription: Kuteta is a constructed language (conlang), inspired by the s
 - Language Name: **Kuteta**[^1]
 - Purpose: I got bored when summer break started so I picked this up as a project, that I hopefully will not give up.
 - Stats:[^2]
-	- 23 notes
-	- 5 attachments
-	- 47 links
-	- 1,560 words
-	- 13,218 characters
+	- 25 notes
+	- 27 attachments
+	- 40 links
+	- 3,153 words
+	- 29,567 characters
 
 ---
 # Quick Links
@@ -26,13 +26,14 @@ socialDescription: Kuteta is a constructed language (conlang), inspired by the s
 	- [ ] Relative clauses
 	- [x] Politeness forms, honorifics, and mood
 	- [x] Commands & imperatives
+	- [ ] Pronouns
 - [x] Create alphabetic glyphs
 - [ ] Develop a more in-depth lexicon
 - [ ] Create custom font for writing
 - [ ] Translate poems, stories, quotes, etc. (based on recommendation)
 - [ ] Possibly more punctuation types
 - [ ] Create a way to organise glyphs into a circle
-- [ ] Create a number system (maybe based on a different base?)
+- [ ] Create a number system (maybe from a different base sequence)
  
 
 
