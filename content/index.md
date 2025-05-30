@@ -21,17 +21,18 @@ socialDescription: Kuteta is a constructed language (conlang), inspired by the s
 # To-Do
 - [ ] Develop more Grammar
 	- [ ] Plurality
-	- [ ] Adjective & Adverb modifiers
+	- [x] Adjective & Adverb modifiers
 	- [ ] Complex/compound sentences
 	- [ ] Relative clauses
-	- [ ] Politeness forms, honorifics, and mood
-	- [ ] Commands & imperatives
+	- [x] Politeness forms, honorifics, and mood
+	- [x] Commands & imperatives
 - [x] Create alphabetic glyphs
 - [ ] Develop a more in-depth lexicon
 - [ ] Create custom font for writing
 - [ ] Translate poems, stories, quotes, etc. (based on recommendation)
 - [ ] Possibly more punctuation types
 - [ ] Create a way to organise glyphs into a circle
+- [ ] Create a number system (maybe based on a different base?)
  
 
 
