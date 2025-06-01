@@ -19,6 +19,8 @@ socialDescription: Kuteta is a constructed language (conlang), inspired by the s
 - [[041.script]]
 ---
 # To-Do
+- [ ] Update the lexicon :heart_break: :heart_break: :heart_break:
+- [ ] CHECK FOR INCONSISTENCIES
 - [ ] Develop more Grammar
 	- [ ] Plurality
 	- [x] Adjective & Adverb modifiers
